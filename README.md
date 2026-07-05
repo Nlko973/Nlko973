@@ -59,5 +59,5 @@ REST API backend for Market system (JWT auth, roles, SQLite database, client-ser
 
 ## 📫 Contact
 
-Telegram: @NikoGateBot
+Telegram: @NikoGateBot<br>
 Email: ilagromov973@gmail.com
