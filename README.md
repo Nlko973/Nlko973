@@ -59,9 +59,9 @@ REST API backend for Market system (JWT auth, roles, SQLite database, client-ser
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nlko973&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nlko973&show_icons=true&theme=default)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlko973)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlko973&layout=compact))
 
 ---
 
