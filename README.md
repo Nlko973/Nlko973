@@ -2,7 +2,7 @@
 
 Junior .NET / Backend Developer
 
-I am a beginner developer focused on building desktop applications, backend systems, and automation bots.
+I’m a beginner software developer from Russia, focused on building desktop applications, backend systems, and automation bots.
 
 ---
 
